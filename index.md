@@ -13,6 +13,8 @@ This is done by presenting participants with problem-circumstances for which the
 
 This activity has been conducted for 6 groups in under 60 minutes and for 4 and 5 groups within 50 minutes.
 
+Contact [David Sabine](//davesabine.com) for additional information and related materials.
+
 ### Required Materials
 
 - 4 to 10 Note cards &amp; 1 marker
