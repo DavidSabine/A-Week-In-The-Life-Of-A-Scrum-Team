@@ -38,7 +38,7 @@ Contact [David Sabine](//davesabine.com) for additional information and related 
 
    On this day: Sprint Review; A key stakeholder can't attend
 
-   On this day: Mid-Sprint; A user uncovers a defect in the team's implementation of one of the Product Backlog items
+   On this day: Mid-Sprint; Another team, working on the same product, have just made a change which causes us unforeseen rework
 
    On this day: Mid-Sprint; Team is waiting on approval of a document from the legal department
 
@@ -47,11 +47,16 @@ Contact [David Sabine](//davesabine.com) for additional information and related 
    On this day: Retrospective; A few team members get into a heated discussion about a defect – and they debate about which tool led to the problem
 
 4. If more than 4 groups, then other scenarios can be added.  Consider the following or improvise:
-  - On this day: Mid-Sprint; Team is told that an architectural decision made in their previous Sprint doesn't "comply" with company standard
-  - On this day: Mid-Sprint; 2 team members are late for the Daily Scrum (it's not the 1st time)
-  - On this day: Mid-Sprint; Product Owner asks the team to add an "important" Product Backlog item to the Sprint
-  - On this day: Mid-Sprint; a team member points out that the Burndown Chart has flat-lined for a 3rd day in a row
-  - On this day: Mid-Sprint; a team member worked all weekend (alone) on a feature which was started by a pair
+
+   On this day: Mid-Sprint; Team is told that an architectural decision made in their previous Sprint doesn't "comply" with company standard
+
+   On this day: Mid-Sprint; 2 team members are late for the Daily Scrum (it's not the 1st time)
+
+   On this day: Mid-Sprint; Product Owner asks the team to add an "important" Product Backlog item to the Sprint
+
+   On this day: Mid-Sprint; a team member points out that the Burndown Chart has flat-lined for a 3rd day in a row
+
+   On this day: Mid-Sprint; a team member worked all weekend (alone) on a feature which was started by a pair
 
 5. Set a timer for 7 minutes and encourage the groups to start discussing/writing.  The goal is to have something written that can can be shared with the room.  That reminder will help them focus on writing.  (Some groups tend to talk about the problem for 5-6 minutes before any writing occurs.  This is not a problem for most groups but they are likely to improvise portions of the story while sharing with the whole room.  Among groups who begin writing sooner, the results are often a more concise story.)
 
