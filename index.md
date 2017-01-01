@@ -24,36 +24,25 @@ This activity has been conducted for 6 groups in under 60 minutes and for 4 and 
 1. Divide the whole group of participants into between 4 and 10 sub-groups.  The best outcomes have occurred with 4 or 5 groups of 4 or 5 people.
 2. Explain to the room the following:
 
-> "15 minutes from now, we're going to hear a story of a Scrum Team and the problems they encounter throughout a Sprint.  I will provide each group with a problem to solve.  Your task will be, within your group, to:
-> - consider the problem and its potential impact on the Scrum Team
-> - refer to the Manifesto for Agile Software Development and discuss which values and principles may inform a solution to the problem
-> - then write a brief story, a paragraph or two, about what the team decides to do about it.  This snippet will be like a single chapter of the larger story.
-> You'll have 7 minutes for this.  At that time, we'll all hear each group share their problem and how their Scrum Team will respond to address that problem.
+   > "15 minutes from now, we're going to hear a story of a Scrum Team and the problems they encounter throughout a Sprint.  I will provide each group with a problem to solve.  Your task will be, within your group, to:
+   > - consider the problem and its potential impact on the Scrum Team
+   > - refer to the Manifesto for Agile Software Development and discuss which values and principles may inform a solution to the problem
+   > - then write a brief story, a paragraph or two, about what the team decides to do about it.  This snippet will be like a single chapter of the larger story.
+   > You'll have 7 minutes for this.  At that time, we'll all hear each group share their problem and how their Scrum Team will respond to address that problem.
 
 3. Then Provide each group with a note card, on which is written a scenario, a problem, for their consideration.  The following 4 are recommended as a minimum:
 
-<div style="border:solid 1px #ccc;">On this day: Sprint Planning
-<p>A team member is missing, at home sick</p>
-</div>
-<div style="border:solid 1px #ccc;">On this day: Sprint Review
-<p>A key stakeholder can't attend</p>
-</div>
+   On this day: Sprint Planning; A team member is missing, at home sick
 
-<div style="border:solid 1px #ccc;">On this day: Mid-Sprint
-<p>A user uncovers a defect in the team's implementation of one of the Product Backlog items</p>
-</div>
+   On this day: Sprint Review; A key stakeholder can't attend
 
-<div style="border:solid 1px #ccc;">On this day: Mid-Sprint
-<p>Team is waiting on approval of a document from the legal department</p>
-</div>
+   On this day: Mid-Sprint; A user uncovers a defect in the team's implementation of one of the Product Backlog items
 
-<div style="border:solid 1px #ccc;">On this day: Retrospective
-<p>An Ops manager shows up and wants to participate</p>
-</div>
+   On this day: Mid-Sprint; Team is waiting on approval of a document from the legal department
 
-<div style="border:solid 1px #ccc;">On this day: Retrospective
-<p>A few team members get into a heated discussion about a defect – and they debate about which tool led to the problem</p>
-</div>
+   On this day: Retrospective; An Ops manager shows up and wants to participate
+
+   On this day: Retrospective; A few team members get into a heated discussion about a defect – and they debate about which tool led to the problem
 
 4. If more than 4 groups, then other scenarios can be added.  Consider the following or improvise:
   - On this day: Mid-Sprint; Team is told that an architectural decision made in their previous Sprint doesn't "comply" with company standard
@@ -68,6 +57,7 @@ This activity has been conducted for 6 groups in under 60 minutes and for 4 and 
   1. Start with the group that had "Sprint Planning"
   2. Follow with any groups that have "Mid-Sprint"
   3. End with the two groups that have "Sprint Review" and "Retrospective"
+
 7. Between each group, or after all have read out loud, host brief QnA so that other groups can inquire about detail or discuss possible outcomes/consequences.
 
 ### Impressions
