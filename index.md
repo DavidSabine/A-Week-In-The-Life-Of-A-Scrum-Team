@@ -23,6 +23,8 @@ Contact [David Sabine](//davesabine.com) for additional information and related 
 
 ### Instructions
 
+!(Note cards on table)[//davesabine.com/CSMCurriculum/images/29.jpg]
+
 1. Divide the whole group of participants into between 4 and 10 sub-groups.  The best outcomes have occurred with 4 or 5 groups of 4 or 5 people.
 2. Explain to the room the following:
 
