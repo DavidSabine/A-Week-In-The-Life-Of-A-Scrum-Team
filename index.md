@@ -13,7 +13,7 @@ This is done by presenting participants with problem-circumstances for which the
 
 This activity has been conducted for 6 groups in under 60 minutes and for 4 and 5 groups within 50 minutes.
 
-Contact [David Sabine](//davesabine.com) for additional information and related materials.
+Contact [David Sabine](http://davesabine.com) for additional information and related materials.
 
 ### Required Materials
 
@@ -23,7 +23,7 @@ Contact [David Sabine](//davesabine.com) for additional information and related 
 
 ### Instructions
 
-!(Note cards on table)[//davesabine.com/CSMCurriculum/images/29.jpg]
+![Note cards on table](http://davesabine.com/CSMCurriculum/images/29.jpg)
 
 1. Divide the whole group of participants into between 4 and 10 sub-groups.  The best outcomes have occurred with 4 or 5 groups of 4 or 5 people.
 2. Explain to the room the following:
